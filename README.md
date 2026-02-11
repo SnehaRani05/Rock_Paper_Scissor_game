@@ -1,11 +1,11 @@
-#  Rock Paper Scissors – Python CLI Game
+# Rock Paper Scissors – Python CLI Game
 
 A simple and interactive **Rock-Paper-Scissors command-line game** built using Python.
 This project demonstrates core programming concepts such as loops, conditionals, user input handling, and random number generation.
 
 ---
 
-##  Features
+## Features
 
 * Interactive CLI-based gameplay
 * Randomized computer moves
@@ -16,14 +16,14 @@ This project demonstrates core programming concepts such as loops, conditionals,
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 * **Language:** Python 3
 * **Library Used:** `random` (built-in Python module)
 
 ---
 
-##  Project Structure
+##   Project Structure
 
 ```
  Rock-Paper-Scissors
@@ -33,16 +33,16 @@ This project demonstrates core programming concepts such as loops, conditionals,
 
 ---
 
-##  How to Run
+##   How to Run
 
-### Step 1: Clone the Repository
+###  Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/rock-paper-scissors.git
 cd rock-paper-scissors
 ```
 
-### Step 2: Run the Game
+###  Step 2: Run the Game
 
 ```bash
 python "RPS game.py"
@@ -50,7 +50,7 @@ python "RPS game.py"
 
 ---
 
-##  Game Rules
+## Game Rules
 
 * Rock beats Scissors
 * Scissors beat Paper
@@ -59,7 +59,7 @@ python "RPS game.py"
 
 ---
 
-##  Learning Outcomes
+## Learning Outcomes
 
 This project helps in understanding:
 
@@ -72,7 +72,7 @@ This project helps in understanding:
 
 ---
 
-##  Possible Enhancements
+## Possible Enhancements
 
 * Case-insensitive input handling
 * GUI version using Tkinter or Pygame
@@ -82,7 +82,7 @@ This project helps in understanding:
 
 ---
 
-##  Author
+## Author
 
 Sneha Rani
 
